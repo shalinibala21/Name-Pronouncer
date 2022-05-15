@@ -1,0 +1,19 @@
+{
+   "country_list": {"Australia":"com.au",
+              "United Kingdom": "co.uk",
+              "United States":"com",
+              "Canada": "ca",
+              "India": "co.in",
+              "France": "fr",
+              "Spain": "es",
+              "Portugal": "pt"
+   },
+    "language_list": {
+      "English": "en",
+    "French": "fr",
+      "Spanish": "es",
+      "Mandarin": "zh-CN",
+      "Portugese": "pt"
+
+    }
+}
