@@ -6,7 +6,7 @@ import eng_to_ipa as p
 import json
 
 # load country and language config
-with open('../config.json') as json_file:
+with open('config.json') as json_file:
     data = json.load(json_file)
 
 
